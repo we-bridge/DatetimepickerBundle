@@ -1,6 +1,5 @@
 {
     "name": "webridge/datetimepicker-bundle",
-    "version": "0.0.1",
     "description": "Symfony bundle for Bootstrap DateTime picker (fork of Stephane's Collot, just for tagging a release",
     "keywords": ["symfony", "bootstrap", "bundle", "picker", "datepicker", "timepicker"],
     "type": "symfony-bundle",
